@@ -1,5 +1,5 @@
 
-# Math Expressions Dataset with Handwritten Quadrilateral Datasets
+# Math Expressions Dataset with Handwritten Datasets
 
 This is an open-source dataset of handwritten mathematical expressions, where each sample is annotated with quadrilateral bounding boxes that represent the boundaries of the expressions, along with additional metadata. The dataset can be used for training and testing mathematical formula recognition, image processing, deep learning, and related tasks.
 
