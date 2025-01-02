@@ -51,13 +51,6 @@ The statistics of the self-collected dataset are as follows:
 
 ## Usage
 
-### Cloning the Repository
-
-To use the dataset, you can clone the repository:
-
-```bash
-git clone https://github.com/Jzliu-dl/MQHSdatabase.git
-```
 
 ### Data Overview
 
